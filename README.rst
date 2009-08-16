@@ -3,7 +3,7 @@ because WeightBot_ is simple.
 
 Here's an example of how you can use it:
 
-..sourcecode:: python
+..sourcecode:: python::
 
     from weightbot import WeightBot
     from pprint import pprint
