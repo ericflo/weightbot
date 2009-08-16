@@ -85,12 +85,3 @@ class WeightBot(object):
                 'pounds': float(lbs.strip()),
             })
         return data
-
-
-if __name__ == '__main__':
-    from pprint import pprint
-    
-    wb = WeightBot('floguy@gmail.com', 'programmer')
-    data = wb.get_data()
-    
-    pprint(data)
