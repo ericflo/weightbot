@@ -1,0 +1,1 @@
+-e hg+https://httplib2.googlecode.com/hg/#egg=httplib2
