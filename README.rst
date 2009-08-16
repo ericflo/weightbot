@@ -1,9 +1,7 @@
 This module is an unofficial API into WeightBot_.  Right now it's very simple
 because WeightBot_ is simple.
 
-Here's an example of how you can use it:
-
-..sourcecode:: python::
+Here's an example of how you can use it::
 
     from weightbot import WeightBot
     from pprint import pprint
